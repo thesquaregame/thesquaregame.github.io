@@ -1,0 +1,31 @@
+body{
+	margin: 0;
+}
+header{
+	min-width: 100%;
+}
+.logo{
+    max-width: 128px;
+    max-height: 128px;
+}
+nav{
+	font-size: 32px;
+	display: inline;
+	margin-bottom: 32px;
+}
+.button_main{
+	text-decoration: none;
+	margin-bottom: 32px;
+}
+.button_download{
+	text-decoration: none;
+	margin-bottom: 32px;
+}
+.button_buy{
+	text-decoration: none;
+	margin-bottom: 32px;
+}
+.button_contacts{
+	text-decoration: none;
+	margin-bottom: 32px;
+}
