@@ -3,6 +3,7 @@ body{
 }
 header{
 	min-width: 100%;
+	min-height: 128px;
 }
 .logo{
     max-width: 128px;
